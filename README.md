@@ -354,7 +354,7 @@ classification_results.csv
 
 # 👨‍💻 Author
 
-Developed by **Євген Мартинюк**
+Developed by **Yevhen Martyniuk**
 
 Deep Learning • Computer Vision • PyTorch
 
